@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordantas1&hide_progress=false&langs_count=4&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordantas1&hide_progress=false&langs_count=4&layout=compact&theme=dark" />
 </picture>
 
 <div style= "display: inline_block"> <br>
