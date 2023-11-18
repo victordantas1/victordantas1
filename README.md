@@ -32,4 +32,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordantas1&hide_progress=true&langs_count=8&theme=dark" />
 </picture>
 
+<div style= "display: inline_block"> <br>
+      <img align="center" alt="Victor-JAVA" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+      <img align="center" alt="Victor-SPRING" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+      
+          
+</div>
+
 
