@@ -1,5 +1,5 @@
 ### Hi! I am Victor Dantas 🖐️
-### Backend Java Developer <img align="center" alt="Victor-JAVA" heigth= "15" width= "25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" > 
+### Backend Developer 
 ##
 <!--
 **victordantas1/victordantas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
