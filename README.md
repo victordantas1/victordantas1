@@ -34,11 +34,18 @@ Here are some ideas to get you started:
 </picture>
 
 <div style= "display: inline_block"> <br>
+      <img align="center" alt="Victor-PYTHON" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
+      <img align="center" alt="Victor-FASTAPI" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" >
+      <img align="center" alt="Victor-FASTAPI" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" >
+      <img align="center" alt="Victor-FASTAPI" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" >
+      <img align="center" alt="Victor-FASTAPI" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" >
+      <img align="center" alt="Victor-FASTAPI" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" >
+      <img align="center" alt="Victor-FASTAPI" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" >
       <img align="center" alt="Victor-JAVA" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" > 
       <img align="center" alt="Victor-SPRING" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" > 
-      <img align="center" alt="Victor-SPRING" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" > 
-      <img align="center" alt="Victor-SPRING" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" > 
-      <img align="center" alt="Victor-SPRING" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+      <img align="center" alt="Victor-JAVASCRIPT" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" > 
+      <img align="center" alt="Victor-JAVASCRIPT" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" > 
+      <img align="center" alt="Victor-JAVASCRIPT" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" > 
 </div>
 
   ##
