@@ -1,5 +1,5 @@
 ### Hi! I am Victor Dantas 🖐️
-### Backend Developer 
+### Backend Developer & Data Scientist
 ##
 <!--
 **victordantas1/victordantas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
