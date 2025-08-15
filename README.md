@@ -39,13 +39,13 @@ Here are some ideas to get you started:
       <img align="center" alt="Victor-FASTAPI" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" >
       <img align="center" alt="Victor-FASTAPI" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" >
       <img align="center" alt="Victor-FASTAPI" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" >
+      <img align="center" alt="Victor-JAVASCRIPT" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" > 
       <img align="center" alt="Victor-FASTAPI" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" >
       <img align="center" alt="Victor-FASTAPI" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" >
       <img align="center" alt="Victor-JAVA" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" > 
       <img align="center" alt="Victor-SPRING" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" > 
       <img align="center" alt="Victor-JAVASCRIPT" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" > 
       <img align="center" alt="Victor-JAVASCRIPT" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" > 
-      <img align="center" alt="Victor-JAVASCRIPT" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" > 
 </div>
 
   ##
