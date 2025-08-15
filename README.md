@@ -34,17 +34,17 @@ Here are some ideas to get you started:
 </picture>
 
 <div style= "display: inline_block"> <br>
-      <img align="center" alt="Victor-PYTHON" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
-      <img align="center" alt="Victor-FASTAPI" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" >
-      <img align="center" alt="Victor-FASTAPI" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" >
-      <img align="center" alt="Victor-FASTAPI" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" >
-      <img align="center" alt="Victor-FASTAPI" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" >
-      <img align="center" alt="Victor-FASTAPI" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" >
-      <img align="center" alt="Victor-FASTAPI" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" >
-      <img align="center" alt="Victor-JAVA" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" > 
-      <img align="center" alt="Victor-SPRING" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" > 
-      <img align="center" alt="Victor-JAVASCRIPT" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" > 
-      <img align="center" alt="Victor-JAVASCRIPT" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" > 
+      <img align="center" alt="Victor-python" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
+      <img align="center" alt="Victor-fastapi" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" >
+      <img align="center" alt="Victor-pandas" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" >
+      <img align="center" alt="Victor-spark" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" >
+      <img align="center" alt="Victor-pytorch" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" >
+      <img align="center" alt="Victor-langchain" heigth= "30" width= "40" src="./assets/svg/Langchain--Streamline-Simple-Icons.svg" >
+      <img align="center" alt="Victor-kafka" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" >
+      <img align="center" alt="Victor-sklearn" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" >
+      <img align="center" alt="Victor-java" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
+      <img align="center" alt="Victor-spring" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" >
+      <img align="center" alt="Victor-docker" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" >
 </div>
 
   ##
